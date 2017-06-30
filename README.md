@@ -2,8 +2,13 @@
 Powershell Module to List all Exchange Builds
 
 # How to Install
-Open powershell as Administrator and type: 
+
+This Module is Published at https://www.powershellgallery.com/packages/ExchangeBuild
+
+In order to install just open the powershell as Administrator and type: 
+
 Install-Module ExchangeBuild
+
 Import-Module ExchangeBuild
 
 # How to use the Module
