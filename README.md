@@ -11,7 +11,7 @@ Install-Module ExchangeBuild
 
 Import-Module ExchangeBuild
 
-# How to use the Module
+# How to use this Module
 
 Get-ExchangeBuild -All
 
